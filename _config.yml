@@ -1,0 +1,28 @@
+name: Murillo Moreira
+favicon: null
+layout_spectrum: 0.1420209901407361
+typography_spectrum: 0.5991437865886837
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.467506306944415
+  lightness: 0.16782016260549426
+  saturation: 0.8540295688435435
+  rhythmicContrast: 0.011710958555340767
+purpose: []
